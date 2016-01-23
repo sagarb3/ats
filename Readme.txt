@@ -8,7 +8,9 @@
 7.Hope you like this application
 /*
 This application project for coaching attendance management is made by:
-Sagar Bhattacharya
+Sagar Bhattacharya (sagar13912@gmail.com)
+Nayna Khokar (nayna.knk@gmail.com)
+Pragya Mishra (pragya.pm18@gmail.com)
 Requirements for Project:
 1.Java must be installed
 2.mysql database server must be installed
